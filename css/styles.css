@@ -1,0 +1,36 @@
+html,
+body {
+  height: 100%;
+}
+
+body {
+  background-color:#EEE2DC;
+}
+
+.navbar-light{
+  background-color: #EDC7B7;
+}
+
+.dropdown-menu {
+  background-color: #EDC7B7;
+}
+
+.dropdown-item:hover {
+  background-color:#EEE2DC;
+}
+
+.text-primary1 {
+  color:#123C69
+}
+.text-secondary1 {
+  color:#AC3B61
+}
+.text-third {
+  color: #bab2b5;
+}
+
+/* #EDC7B7  -- peach
+#EEE2DC  -- beige
+#BAB2B5  - gray
+#123C69  -- navy
+#AC3B61  -- red*/
